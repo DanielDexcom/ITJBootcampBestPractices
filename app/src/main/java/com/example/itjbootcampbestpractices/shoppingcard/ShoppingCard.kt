@@ -8,8 +8,7 @@ package com.example.itjbootcampbestpractices.shoppingcard
 * 5- Tax is applied based on region
 * 6- Supported regions are (West, Midwest, Northeast, Southwest, Southeast)
 * 7- Region taxes [West = .11, Midwest = .09, Northeast = .11, Southwest = 0.08, Southeast = 0.09]
-* 8- If the user is using the app for the first time we apply a coupon of $10
-* 9-
+* 8- If the user has more than $200 in products we provide a coupon of $5
 * */
 class ShoppingCard {
 }
