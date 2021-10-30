@@ -124,37 +124,6 @@
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg"
   },
   {
-    "sku": 185230,
-    "name": "Duracell - C Batteries (4-Pack)",
-    "type": "HardGood",
-    "price": 8.99,
-    "upc": "041333440019",
-    "category": [
-      {
-        "id": "pcmcat312300050015",
-        "name": "Connected Home & Housewares"
-      },
-      {
-        "id": "pcmcat248700050021",
-        "name": "Housewares"
-      },
-      {
-        "id": "pcmcat303600050001",
-        "name": "Household Batteries"
-      },
-      {
-        "id": "abcat0208002",
-        "name": "Alkaline Batteries"
-      }
-    ],
-    "shipping": 5.49,
-    "description": "Compatible with select electronic devices; C size; DURALOCK Power Preserve technology; 4-pack",
-    "manufacturer": "Duracell",
-    "model": "MN1400R4Z",
-    "url": "http://www.bestbuy.com/site/duracell-c-batteries-4-pack/185230.p?id=1051384046486&skuId=185230&cmp=RMXCC",
-    "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg"
-  },
-  {
     "sku": 185267,
     "name": "Duracell - D Batteries (4-Pack)",
     "type": "HardGood",
@@ -184,6 +153,37 @@
     "model": "MN1300R4Z",
     "url": "http://www.bestbuy.com/site/duracell-d-batteries-4-pack/185267.p?id=1051384046551&skuId=185267&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg"
+  },
+  {
+    "sku": 185230,
+    "name": "Duracell - C Batteries (4-Pack)",
+    "type": "HardGood",
+    "price": 8.99,
+    "upc": "041333440019",
+    "category": [
+      {
+        "id": "pcmcat312300050015",
+        "name": "Connected Home & Housewares"
+      },
+      {
+        "id": "pcmcat248700050021",
+        "name": "Housewares"
+      },
+      {
+        "id": "pcmcat303600050001",
+        "name": "Household Batteries"
+      },
+      {
+        "id": "abcat0208002",
+        "name": "Alkaline Batteries"
+      }
+    ],
+    "shipping": 5.49,
+    "description": "Compatible with select electronic devices; C size; DURALOCK Power Preserve technology; 4-pack",
+    "manufacturer": "Duracell",
+    "model": "MN1400R4Z",
+    "url": "http://www.bestbuy.com/site/duracell-c-batteries-4-pack/185230.p?id=1051384046486&skuId=185230&cmp=RMXCC",
+    "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg"
   },
   {
     "sku": 312290,
@@ -488,7 +488,7 @@
         "name": "In-Store Only"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "PORTABLE RADAR DETECTOR INST",
     "manufacturer": "INSTALL",
     "model": "PRT RDR IN",
@@ -3112,7 +3112,7 @@
         "name": "Digital Pens & Accessories"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Leather",
     "manufacturer": "Livescribe",
     "model": "AAA-00015",
@@ -3301,7 +3301,7 @@
         "name": "Cooktops"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Knob controls; 5 cooktop elements; 100-2700 watts of power; warm zone; 2 double-ring round elements",
     "manufacturer": "KitchenAid",
     "model": "KECD867XBL",
@@ -3328,7 +3328,7 @@
         "name": "Cooktops"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Knob controls; 5 cooktop elements; 100-2700 watts of power; warm zone; 2 double-ring round elements",
     "manufacturer": "KitchenAid",
     "model": "KECD867XSS",
@@ -3393,7 +3393,7 @@
     "shipping": 5.49,
     "description": "For use with Keurig's Single Serve Brewer; Kona breakfast blend coffee; 18-pack",
     "manufacturer": "Keurig",
-    "model": null,
+    "model": "",
     "url": "http://www.bestbuy.com/site/keurig-green-mountain-breakfast-blend-k-cups-18-pack-multi/1011173.p?id=1218208016216&skuId=1011173&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1011/1011173_sa.jpg"
   },
@@ -3479,7 +3479,7 @@
         "name": "Upright Freezers"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "5 built-in shelves; in-door storage; defrost drain; mechanical knob controls",
     "manufacturer": "Frigidaire",
     "model": "FFVU17F4QW",
@@ -3734,7 +3734,7 @@
         "name": "Digital Pens & Accessories"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Capture lectures, labs, seminars, study groups, and more; 100 sheets per notebook; 8.5 x 11 dot paper; works with all Livescribe smartpens",
     "manufacturer": "Livescribe",
     "model": "ANA-00018",
@@ -6144,7 +6144,7 @@
     "shipping": 3.99,
     "description": "Show off your racing skills",
     "manufacturer": "Activision",
-    "model": null,
+    "model": "",
     "url": "http://www.bestbuy.com/site/hot-wheels-beat-that-pre-owned-nintendo-ds/1053196.p?id=1218215103698&skuId=1053196&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053196_sa.jpg"
   },
@@ -6167,7 +6167,7 @@
     "shipping": 3.99,
     "description": "Explore the world with your loyal horse",
     "manufacturer": "Ubisoft",
-    "model": null,
+    "model": "",
     "url": "http://www.bestbuy.com/site/ener-g-horse-riders-pre-owned-nintendo-ds/1053239.p?id=1218215100283&skuId=1053239&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053239_sa.jpg"
   },
@@ -6190,7 +6190,7 @@
     "shipping": 3.99,
     "description": "Live out the pro basketball experience with stunning realism",
     "manufacturer": "2K",
-    "model": null,
+    "model": "",
     "url": "http://www.bestbuy.com/site/nba-2k10-pre-owned-playstation-3/1053381.p?id=1218215101897&skuId=1053381&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053381_sa.jpg"
   },
@@ -6236,7 +6236,7 @@
     "shipping": 3.99,
     "description": "These critters are so darned cute",
     "manufacturer": "Ubisoft",
-    "model": null,
+    "model": "",
     "url": "http://www.bestbuy.com/site/petz-hamsterz-2-pre-owned-nintendo-ds/1053432.p?id=1218215102494&skuId=1053432&cmp=RMXCC",
     "image": "http://img.bbystatic.com/BestBuy_US/images/products/1053/1053432_sa.jpg"
   },
@@ -6643,7 +6643,7 @@
         "name": "Cooktops"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Front controls; 4 sealed burners; 900-15,000 BTU burner range; simmer burner",
     "manufacturer": "KitchenAid",
     "model": "KGCD807XSS",
@@ -6836,7 +6836,7 @@
         "name": "Cooktops"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Front controls; 4 sealed burners; 900-15,000 BTU burner range; simmer burner",
     "manufacturer": "KitchenAid",
     "model": "Kgcd807xbl",
@@ -7403,7 +7403,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; Turbo Cool setting; adjustable, slide-out spill-proof shelves; adjustable Clear Look door bins; dairy compartment",
     "manufacturer": "GE",
     "model": "PSE25KGHWW",
@@ -7430,7 +7430,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic touch temperature controls; 4 electronic sensors; 4 fresh-food shelves; 4 fresh-food door bins; dairy compartment; in-the-door can rack; 4 freezer shelves",
     "manufacturer": "GE",
     "model": "GSS23HGHBB",
@@ -7457,7 +7457,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "External electronic temperature controls; adjustable slide-out, spill-proof glass shelves; adjustable-humidity and -temperature drawers; Sweet Spot freezer shelf",
     "manufacturer": "GE",
     "model": "GSE22ESHSS",
@@ -7484,7 +7484,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; TurboCool setting; short air tower; adjustable, slide-out spill-proof glass shelves; Clear Look door bins",
     "manufacturer": "GE",
     "model": "PSS28KSHSS",
@@ -7511,7 +7511,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic external temperature controls; 3 electronic sensors; 3 fresh-food shelves; 4 fresh-food door bins; dairy compartment; 3 freezer shelves; 5 freezer door shelves",
     "manufacturer": "GE",
     "model": "GSS20ESHSS",
@@ -7538,7 +7538,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic external temperature controls; 3 electronic sensors; 3 fresh-food shelves; 4 fresh-food door bins; dairy compartment; 3 freezer shelves; 5 freezer door shelves",
     "manufacturer": "GE",
     "model": "GSS20ETHBB",
@@ -7565,7 +7565,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic touch temperature controls; 4 electronic sensors; 4 fresh-food shelves; 4 fresh-food door bins; dairy compartment; in-the-door can rack; 4 freezer shelves",
     "manufacturer": "GE",
     "model": "GSS23HSHSS",
@@ -7592,7 +7592,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic external temperature controls; 3 electronic sensors; 3 fresh-food shelves; 4 fresh-food door bins; dairy compartment; 3 freezer shelves; 5 freezer door shelves",
     "manufacturer": "GE",
     "model": "GSS20ETHWW",
@@ -7619,7 +7619,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; Turbo Cool setting; adjustable, slide-out spill-proof shelves; adjustable Clear Look door bins; dairy compartment",
     "manufacturer": "GE",
     "model": "PSE25KGHBB",
@@ -7646,7 +7646,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic external temperature controls; 3 electronic sensors; 3 fresh-food shelves; 4 fresh-food door bins; dairy compartment; 3 freezer shelves; 5 freezer door shelves",
     "manufacturer": "GE",
     "model": "GSS20ETHCC",
@@ -7673,7 +7673,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "LCD membrane temperature controls; Smart Cooling Plus with Fresh Air filter; Glide N' Access sliding shelf; spill-safe shelves; pull-out freezer drawer; SmartPull freezer handle",
     "manufacturer": "LG",
     "model": "LFCS31626S",
@@ -7700,7 +7700,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic temperature controls; wall-to-wall frameless glass shelves; Flexi-Slide bin; humidity-controlled crispers; gallon-size door storage",
     "manufacturer": "Whirlpool",
     "model": "WRT318FZDM",
@@ -7727,7 +7727,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Analog temperature controls; 3 glass shelves; dairy center; deli meat drawer; 1 fixed freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT314TFDW",
@@ -7754,7 +7754,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Electronic temperature controls; 2 adjustable shelves; Flexi-Slide bin; clear, humidity-controlled crispers; gallon door storage; compatible with optional EZ Connect icemaker kit",
     "manufacturer": "Whirlpool",
     "model": "WRT108FZDT",
@@ -7781,7 +7781,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "ENERGY STAR Certified\nUp-front electronic temperature control; 3 glass shelves; Flexi-Slide bin; clear humidity-controlled crispers; deli meat drawer; dairy center; gallon-size door storage; fixed freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT138FZDM",
@@ -7808,7 +7808,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Interior temperature control dials; 3 glass and wire shelves; deli meat drawer; dairy center; gallon-size door storage; freezer temperature controls; wire freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT106TFDT",
@@ -7835,7 +7835,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "ENERGY STAR Certified\nElectronic controls; glass and wire shelves; dairy center; deli meat drawer; humidity-controlled crispers; Flexi-Slide bin; gallon door storage; EZ Connect icemaker kit compatible",
     "manufacturer": "Whirlpool",
     "model": "WRT138FZDB",
@@ -7862,7 +7862,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; 3 glass shelves; Flexi-Slide bin; clear humidity-controlled crispers; gallon-size door storage; dairy center; deli meat drawer; wire freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT108FZDM",
@@ -7889,7 +7889,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; wall-to-wall frameless glass shelves; humidity-controlled crispers; Flexi-Slide bin; gallon-size door storage",
     "manufacturer": "Whirlpool",
     "model": "WRT318FZDW",
@@ -7916,7 +7916,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; wall-to-wall frameless glass shelves; humidity-controlled crispers; Flexi-Slide bin; gallon-size door storage",
     "manufacturer": "Whirlpool",
     "model": "WRT318FZDB",
@@ -7943,7 +7943,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; 3 glass shelves; Flexi-Slide bin; clear humidity-controlled crispers; gallon-size door storage; dairy center; deli meat drawer; wire freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT108FZDW",
@@ -7970,7 +7970,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "ENERGY STAR Certified\nUp-front electronic temperature controls; glass and wire shelves; humidity-controlled crispers; Flexi-Slide bin; gallon-size door storage",
     "manufacturer": "Whirlpool",
     "model": "WRT138FZDW",
@@ -7997,7 +7997,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Up-front electronic temperature controls; 3 glass shelves; Flexi-Slide bin; clear humidity-controlled crispers; gallon-size door storage; dairy center; deli meat drawer; wire freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT108FZDB",
@@ -8024,7 +8024,7 @@
         "name": "All Refrigerators"
       }
     ],
-    "shipping": "",
+    "shipping": 0,
     "description": "Analog temperature controls; glass shelves; dairy center, deli meat drawer; fixed wire freezer shelf",
     "manufacturer": "Whirlpool",
     "model": "WRT314TFDB",

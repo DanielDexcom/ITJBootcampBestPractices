@@ -7,6 +7,7 @@ import androidx.room.Transaction
 import com.example.itjbootcampbestpractices.persistance.entities.Product
 import com.example.itjbootcampbestpractices.persistance.entities.ProductCategoryCrossReference
 import com.example.itjbootcampbestpractices.persistance.entities.ProductWithCategory
+import kotlinx.coroutines.flow.Flow
 
 @Dao
 abstract class ProductDao {
@@ -27,5 +28,5 @@ abstract class ProductDao {
 
     @Transaction
     @Query("SELECT * FROM Product")
-    abstract fun getProductsWithCategory(): List<ProductWithCategory>
+    abstract fun getProductsWithCategory(): Flow<List<ProductWithCategory>>
 }
