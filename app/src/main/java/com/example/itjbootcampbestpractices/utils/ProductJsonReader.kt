@@ -4,7 +4,7 @@ import com.example.itjbootcampbestpractices.R
 import com.example.itjbootcampbestpractices.models.RawProduct
 import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.json.Json
-
+// Read the json from file
 class ProductJsonReader(private val fileReader: ProjectFilesReader): JsonReader<List<RawProduct>> {
     override fun getObjectFromJson(): List<RawProduct> {
         val jsonStr = getJsonString()

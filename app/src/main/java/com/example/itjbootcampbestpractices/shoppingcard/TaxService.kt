@@ -1,4 +1,9 @@
 package com.example.itjbootcampbestpractices.shoppingcard
 
-class TaxService {
+abstract class TaxService {
+    val WEST = "WEST"
+    val SOUTH = "SOUTH"
+    val NORTH = "NORTH"
+    val EAST = "EAST"
+    abstract fun getTaxForRegion(region: String): Double
 }
